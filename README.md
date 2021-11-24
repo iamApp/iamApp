@@ -1,10 +1,8 @@
 
-![This is an image](https://media.giphy.com/media/5hgYGAOJIdyyWjfKCa/source.mp4)
+![This is an image](https://media.giphy.com/media/5hgYGAOJIdyyWjfKCa/giphy.gif)
 
 
-# Get Ready for Battle
-
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **iamApp/iamApp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
