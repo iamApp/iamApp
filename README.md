@@ -1,5 +1,5 @@
 
-![This is an image](https://media.giphy.com/media/5hgYGAOJIdyyWjfKCa/giphy.gif)
+![This is an image](https://media.giphy.com/media/5hgYGAOJIdyyWjfKCa/source.mp4)
 
 
 # Get Ready for Battle
