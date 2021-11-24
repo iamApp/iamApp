@@ -1,5 +1,5 @@
 
-![This is an image](https://giphy.com/gifs/looneytunesworldofmayhem-5hgYGAOJIdyyWjfKCa)
+![This is an image](https://media.giphy.com/media/5hgYGAOJIdyyWjfKCa/giphy.gif)
 
 
 # Get Ready for Battle
