@@ -1,7 +1,5 @@
 
-![This is an image](https://media.giphy.com/media/5xaOcLwijfQN4bm2LV6/giphy.gif)
-
-![This is an image](https://media.giphy.com/media/5hgYGAOJIdyyWjfKCa/giphy.gif)
+![This is an image](https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif)
 
 
 ## Hi there 👋
