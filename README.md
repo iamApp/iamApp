@@ -1,5 +1,5 @@
 
-![This is an image](https://giphy.com/embed/5hgYGAOJIdyyWjfKCa" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-5hgYGAOJIdyyWjfKCa)
+![This is an image](https://giphy.com/gifs/looneytunesworldofmayhem-5hgYGAOJIdyyWjfKCa)
 
 
 # Get Ready for Battle
