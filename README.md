@@ -1,5 +1,5 @@
 
-![This is an image](https://assets3.lottiefiles.com/packages/lf20_5ngs2ksb.json)
+![This is an image](https://lottiefiles.com/83548-online-shopping-black-friday)
 
 https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif
 
