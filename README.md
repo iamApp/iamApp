@@ -1,6 +1,7 @@
 
-![This is an image](https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif)
+![This is an image](https://assets3.lottiefiles.com/packages/lf20_5ngs2ksb.json)
 
+https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif
 
 ## Hi there 👋
 
